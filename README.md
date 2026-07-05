@@ -6,7 +6,9 @@ Personal learning notes and experiments for AI agents and vector databases.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [database_0_milvus](database_0_milvus/) | Milvus vector DB | Python, pymilvus, Milvus Lite |
+| [database_0_milvus](database_0_milvus/) | Milvus vector DB | Python, pymilvus, Milvus Lite 
+| [agent_0_react](agent_0_react/) | ReAct | Python, Agent |
+|
 
 ## Getting Started
 
