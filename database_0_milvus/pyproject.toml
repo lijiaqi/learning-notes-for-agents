@@ -1,0 +1,13 @@
+[project]
+name = "learning-milvus"
+version = "0.1.0"
+description = ""
+authors = [
+    { name = "Jiaqi Li", email = "lijiaqi.register@outlook.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "black>=26.5.1",
+    "pymilvus[bulk-writer,milvus-lite,model]>=2.5.2",
+    "torch>=2.10",
+]
